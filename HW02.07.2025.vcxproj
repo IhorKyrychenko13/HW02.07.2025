@@ -124,6 +124,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HW02.07.2025.cpp" />
+    <ClCompile Include="Tour.cpp" />
+    <ClCompile Include="TravelAgency.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Array_Template.h" />
+    <ClInclude Include="Tour.h" />
+    <ClInclude Include="TravelAgency.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
